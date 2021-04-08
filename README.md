@@ -14,3 +14,13 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | Date       | Topic                                 | Resources      |
 |------------|---------------------------------------|----------------|
 | 2021-04-09 | Introduction                          | [pdf](slides/DIS25-01-Introduction.pdf) |
+| 2021-04-16 | Basic text processing                 | |
+| 2021-04-23 | WordNet                               | |
+| 2021-04-30 | Vector semantics                      | |
+| 2021-05-07 | Ethics and truth in NLP               | |
+| 2021-05-07 | Video Lectures about Bias in NLP      | |
+| 2021-05-14 | Video Lectures about Bias in NLP      | |
+| 2021-05-28 | Student talks – Paper presentation    | |
+
+
+
