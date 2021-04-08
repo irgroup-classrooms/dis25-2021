@@ -18,9 +18,17 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2021-04-23 | WordNet                               | |
 | 2021-04-30 | Vector semantics                      | |
 | 2021-05-07 | Ethics and truth in NLP               | |
-| 2021-05-07 | Video Lectures about Bias in NLP      | |
 | 2021-05-14 | Video Lectures about Bias in NLP      | |
 | 2021-05-28 | Student talks – Paper presentation    | |
+| 2021-06-04 | Sentiment analysis                    | |
+| 2021-06-11 | Information Extraction                | |
+| 2021-06-18 | Evaluation of Information Extraction  | |
+| 2021-06-25 | Annotations (guest lecture)           | | 
+| 2021-07-02 | Student talks – Milestone presentation| |
+
+
+
+
 
 
 
