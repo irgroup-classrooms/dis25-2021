@@ -13,4 +13,4 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 
 | Date       | Topic                                 | Resources      |
 |------------|---------------------------------------|----------------|
-| 2021-04-09 | Introduction                          | [pdf](slides/DIS25-introduction.pdf) |
+| 2021-04-09 | Introduction                          | [pdf](slides/DIS25-01-Introduction) |
