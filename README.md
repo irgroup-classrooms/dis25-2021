@@ -15,7 +15,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 |------------|---------------------------------------|----------------|
 | 2021-04-09 | Introduction                          | [slides](slides/DIS25-01-Introduction.pdf) |
 | 2021-04-16 | Basic text processing                 | [slides](slides/DIS25-02-BasicTextProcessing.pdf) [exercise](tutorials/DIS25_tutorial_1.pdf) \| [zip](tutorials/DIS25_tutorial_1.zip) |
-| 2021-04-23 | WordNet                               | [NDA GermaNet](tutorials/Classroom-Student-Germanet.pdf) |
+| 2021-04-23 | WordNet                               | [exercise](tutorials/DIS25_tutorial_2.pdf) \| [zip](tutorials/DIS25_tutorial_2.zip) \|[NDA GermaNet](tutorials/Classroom-Student-Germanet.pdf) |
 | 2021-04-30 | Vector semantics                      | |
 | 2021-05-07 | Ethics and truth in NLP               | |
 | 2021-05-14 | Video Lectures about Bias in NLP      | |
