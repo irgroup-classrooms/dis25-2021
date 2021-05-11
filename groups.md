@@ -1,6 +1,6 @@
 # Zuweisung der Themen/Papers
 Die Gruppen für Paper 2 und 10 bestehen aus Personen, die sich nicht bis zum Fristablauf für Themen eingetragen hatten. Sollten Sie Probleme mit der Kontaktaufnahme zu Gruppenmitgliedern haben, melden Sie sich.
-Gruppe 10 hat einzusätzliches Paper (Dev, S., Phillips, J.M.: Attenuating Bias in Word Vectors (2019)) zugewiesen bekommen, das Sie hier finden können: http://arxiv.org/abs/1901.07656
+Gruppe 10 hat ein zusätzliches Paper (Dev, S., Phillips, J.M.: Attenuating Bias in Word Vectors (2019)) zugewiesen bekommen, das Sie hier finden können: http://arxiv.org/abs/1901.07656
 
 Ihre Gruppen bzw. Papers wurden wie folgt zugewiesen:
 
