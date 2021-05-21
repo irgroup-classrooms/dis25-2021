@@ -19,7 +19,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2021-04-30 | Vector semantics                      | [slides](slides/DIS25-04-VectorSemantics.pdf) \| [exercise](tutorials/DIS25_tutorial_3.pdf) \| [zip](tutorials/DIS25_tutorial_3.zip) |
 | 2021-05-07 | Language Models and Ethics in NLP     | [slides](slides/DIS25-05-LM-Ethics.pdf) \| [Zuteilung der Gruppen](groups.md) \| [Literature and priority selection for presentations](tutorials/DIS25_Literaturliste.pdf) |
 | 2021-05-14 | Video Lectures: Fairness and Transperency in Ranking | [youtube](https://www.youtube.com/watch?v=keGPIxQVTY4)|
-| 2021-05-28 | Student talks – Paper presentation    | [Informationen zu ESuPol Datensätzen](ESuPol_Datensätze_Übersicht.pdff) \| [Slice:BTW17](suggestions_btw17_slice.csv) \| [Slice:EU](suggestions_eu_slice.csv) \| [Slice:minorities](suggestions_minorities_slice.csv) |
+| 2021-05-28 | Student talks – Paper presentation    | [Informationen zu ESuPol Datensätzen](ESuPol_Datensätze_Übersicht.pdf) \| [Slice:BTW17](suggestions_btw17_slice.csv) \| [Slice:EU](suggestions_eu_slice.csv) \| [Slice:minorities](suggestions_minorities_slice.csv) |
 | 2021-06-04 | Sentiment analysis                    | |
 | 2021-06-11 | Information Extraction                | |
 | 2021-06-18 | Evaluation of Information Extraction  | |
