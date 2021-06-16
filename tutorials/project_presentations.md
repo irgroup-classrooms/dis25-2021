@@ -11,7 +11,7 @@ Ihr Vortrag sollte Ihre Überlegungen zu den folgenden Bestandteilen des Projekt
   * Analysemethoden (und Metriken) sowie mögliche statistische Tests (z.B. Signifikanztests)
   * Diskussion von erwarteten Problemen und erhofften Ergebnissen
 
-Für die Bewertung ist entscheidend, dass Sie ein ordentliches Konzept, mit einem sinnvollen Aufbau nachvollziehbar präsentieren und gegebenenfalls schon anhand von ersten Prototypen/Tests zeigen, dass Ihr Vorhaben umsetzbar ist. Begründen Sie zu jedem der o.g. Bestandteile ihres Projektes ihre Entscheidungen nachvollziehbar. Wichtig ist, dass klar wird: Wie können Sie die gewählte Form mit welchen Methoden in welchen Daten identifizieren? Da Ihre letzte Prüfungsleistung in dieser Veranstaltung die Umsetzung Ihres Projektes ist, macht es Sinn, die Umsetzbarkeit ihrer Idee so weit wie möglich zu überprüfen. Testen Sie daher idealerweise Ihren Ansatz bzw. einzelne Bestandteile der Methode mit den zur Verfügung gestellten Slices der Datensätze.
+Für die Bewertung ist entscheidend, dass Sie ein ordentliches Konzept, mit einem sinnvollen Aufbau nachvollziehbar präsentieren und gegebenenfalls schon anhand von ersten Prototypen/Tests zeigen, dass Ihr Vorhaben umsetzbar ist. Begründen Sie zu jedem der o.g. Bestandteile ihres Projektes ihre Entscheidungen nachvollziehbar. Wichtig ist, dass klar wird: Wie können Sie die gewählte Form mit welchen Methoden in welchen Daten identifizieren? Da Ihre letzte Prüfungsleistung in dieser Veranstaltung die Umsetzung Ihres Projektes ist, macht es Sinn, die Umsetzbarkeit ihrer Idee so weit wie möglich zu überprüfen. Testen Sie daher idealerweise Ihren Ansatz bzw. einzelne Bestandteile der Methode mit den zur Verfügung gestellten Slices der Datensätze. 
 
 
 ## Präsentation
