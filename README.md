@@ -23,7 +23,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2021-06-04 | Sentiment analysis                    | [slides](slides/DIS25-08-Sentiments.pdf) |
 | 2021-06-11 | Information Extraction                | [slides](slides/DIS25-09-infoextract.pdf)|
 | 2021-06-18 | Data Programming for Information Extraction  | [slides](slides/DIS25-10-infoextract2.pdf) |
-| 2021-06-25 | Annotations (guest lecture)           | | 
+| 2021-06-25 | Annotations (guest lecture)           | [slides](slides/DIS25-11-annotations.pdf) | 
 | 2021-07-02 | Student talks – Milestone presentation|  [zur Vorstellung der Konzepte](tutorials/project_presentations.md) |
 
 
