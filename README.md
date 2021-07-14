@@ -24,7 +24,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2021-06-11 | Information Extraction                | [slides](slides/DIS25-09-infoextract.pdf)|
 | 2021-06-18 | Data Programming for Information Extraction  | [slides](slides/DIS25-10-infoextract2.pdf) |
 | 2021-06-25 | Annotations (guest lecture)           | [slides](slides/DIS25-11-annotations.pdf) | 
-| 2021-07-02 | Student talks – Milestone presentation| [presentation schedule](schedule-2021-07-02.md) |
+| 2021-07-02 | Student talks – Milestone presentation| [presentation schedule](schedule-2021-07-02.md) | [presentation results](presentations_results.md) |
 
 
 
