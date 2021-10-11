@@ -1,6 +1,6 @@
 ## Presentations and term paper results
-| Team         | 28.05.   | 02.07.   | term paper | total points and grading
-| -----------  | -------- | -------- | -----------  |
+| Team         | 28.05.   | 02.07.   | term paper | total points and grading |
+| -----------  | -------- | -------- | -----------  | ---|
 | 1 | 17| 6| - | 23/100 (5) |
 | 3 | 22|17| 21,5 | 60,5 (3,3) |
 | 4 | 25|18| 32 | 75 (2,3) |
